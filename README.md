@@ -17,7 +17,7 @@
 <details>
   <summary> More about me</summary>
 
-  - 💬 I'm 19 years old, currently living in Brazil. I have fluency in English and have experience with C, Python, JavaScript and web development. I'm also interested in cybersecurity and continuously improving my skills through practice and personal projects, aiming to start my career in the tech field.
+  - 💬 I'm 19 years old, currently living in Brazil. I have intermediate proficiency in English and have experience with C, Python, JavaScript and web development. I'm also interested in cybersecurity and continuously improving my skills through practice and personal projects, aiming to start my career in the tech field.
 
   - 🎮 I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. :)
 </details>
